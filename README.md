@@ -1,2 +1,2 @@
-# static-demo_1
- JD.COM
+# Ctrip
+ static-demo_1
