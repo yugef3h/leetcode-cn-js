@@ -4,7 +4,7 @@
 返回滑动窗口中的最大值，即 k 个数中的 Math.max
 
 输入: nums = [1,3,-1,-3,5,3,6,7], 和 k = 3
-输出: [3,3,5,5,6,7] 
+输出: [3,3,5,5,6,7]
  */
 
 var maxSlidingWindow = function(nums, k) {
